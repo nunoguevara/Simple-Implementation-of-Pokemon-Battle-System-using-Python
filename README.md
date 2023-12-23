@@ -14,7 +14,7 @@ now, you have to follow this step:
 - And now you can run the code
 
 ## Edit The Code:
-This is an open source code, so you free to edit or copy the code, for more information is on MIT License part
+This is an open source code, so you are free to edit or copy the code, for more information is on MIT License part
 
 ## License
 
